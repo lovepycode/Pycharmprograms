@@ -7,6 +7,7 @@ products_per_supplier = {}
 total_value_per_supplier = {}
 products_under_90 = {}
 
+#testing
  
  
 for product_row in range(2, product_list.max_row + 1):
